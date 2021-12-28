@@ -1,34 +1,35 @@
 ## 1. Time complexity analysis
-	 
- - [ ] [link](https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976)
+     
+ - [x] [link](https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976)
 ## 2. Math Algorithms
- - [ ] Find all prime nos from 1 to N Given a number find if it's prime
- - [ ] Calculate X^Y in log(Y) time Find all prime factors of a number N 
- - [ ] Calculate NCR value for given N and R Read and implement the
- - [ ] problems for all catalan number variations taught in class
- - [ ]  [](https://leetcode.com/problems/unique-binary-search-trees)[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
+ - [x] Find all prime nos from 1 to N Given a number find if it's prime
+ - [x] Calculate X^Y in log(Y) time  (binary_exponation)
+ - [x] Find all prime factors of a number N 
+ - [x] Calculate NCR value for given N and R Read and implement the
+ - [x] problems for all catalan number variations taught in class
+ - [x]  [](https://leetcode.com/problems/unique-binary-search-trees)[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
 
 ## 3. Bit Manipulation
- - [ ] [](https://leetcode.com/problems/single-number)[Single Number](https://leetcode.com/problems/single-number)
- - [ ] [](https://leetcode.com/problems/single-number-ii)[Single Number II](https://leetcode.com/problems/single-number-ii)
- - [ ] [](https://leetcode.com/problems/majority-element)[Majority Element](https://leetcode.com/problems/majority-element)
- - [ ] [](https://leetcode.com/problems/bitwise-and-of-numbers-range)[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
- - [ ] [](https://leetcode.com/problems/counting-bits)[Counting Bits](https://leetcode.com/problems/counting-bits)
- - [ ] [](https://leetcode.com/problems/hamming-distance)[Hamming Distance](https://leetcode.com/problems/hamming-distance)
- - [ ] [](https://leetcode.com/problems/decode-xored-permutation)[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation)
+ - [x] [](https://leetcode.com/problems/single-number)[Single Number](https://leetcode.com/problems/single-number)
+ - [x] [](https://leetcode.com/problems/single-number-ii)[Single Number II](https://leetcode.com/problems/single-number-ii)
+ - [x] [](https://leetcode.com/problems/majority-element)[Majority Element](https://leetcode.com/problems/majority-element)
+ - [x] [](https://leetcode.com/problems/bitwise-and-of-numbers-range)[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
+ - [x] [](https://leetcode.com/problems/counting-bits)[Counting Bits](https://leetcode.com/problems/counting-bits)
+ - [x] [](https://leetcode.com/problems/hamming-distance)[Hamming Distance](https://leetcode.com/problems/hamming-distance)
+ - [x] [](https://leetcode.com/problems/decode-xored-permutation)[Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation)
 
 
 ## 4. Sorting Algorithms
 
- - [ ] Selection sort
- - [ ] Bubble Sort
- - [ ] Merge Sort
- - [ ] Quick Sort
- - [ ] Insertion Sort
- - [ ] Counting Sort
- - [ ] Radix sort
+ - [x] Selection sort
+ - [x] Bubble Sort
+ - [x] Merge Sort
+ - [x] Quick Sort
+ - [x] Insertion Sort
+ - [x] Counting Sort
+ - [x] Radix sort
 - [ ] [](https://leetcode.com/problems/maximum-gap)[Maximum Gap](https://leetcode.com/problems/maximum-gap)
- - [ ] Bucket Sort
+ - [x] Bucket Sort
 
 ## 5. Array
 
@@ -58,7 +59,7 @@
 
 
 ## 6. Stack & Queue
-	
+    
 
  - [ ]  [](https://leetcode.com/problems/implement-stack-using-queues)[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
  - [ ] [](https://leetcode.com/problems/implement-queue-using-stacks)[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) 
@@ -87,9 +88,9 @@
 
 ## 8. HashMap
 
- - [ ] [](https://leetcode.com/problems/design-hashmap)[Design HashMap](https://leetcode.com/problems/design-hashmap)
+ - [x] [](https://leetcode.com/problems/design-hashmap)[Design HashMap](https://leetcode.com/problems/design-hashmap)
  - [ ] [](https://leetcode.com/problems/4sum)[4Sum](https://leetcode.com/problems/4sum)
- - [ ] [](https://leetcode.com/problems/valid-sudoku)[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
+ - [x] [](https://leetcode.com/problems/valid-sudoku)[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)
  - [ ] [](https://leetcode.com/problems/sudoku-solver)[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
  - [ ] [](https://leetcode.com/problems/group-anagrams)[Group Anagrams](https://leetcode.com/problems/group-anagrams)
  - [ ] [](https://leetcode.com/problems/maximal-rectangle)[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)
