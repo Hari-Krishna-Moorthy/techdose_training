@@ -37,8 +37,8 @@
  - [x] [](https://leetcode.com/problems/sort-colors)[Sort Colors](https://leetcode.com/problems/sort-colors)
  - [x] Largest sum contiguous subarray
  - [x] Merge 2 sorted arrays without using extra space
- - [ ] [](https://leetcode.com/problems/merge-intervals)[Merge Intervals](https://leetcode.com/problems/merge-intervals)
- - [ ] [](https://leetcode.com/problems/next-permutation)[Next Permutation](https://leetcode.com/problems/next-permutation)
+ - [x] [](https://leetcode.com/problems/merge-intervals)[Merge Intervals](https://leetcode.com/problems/merge-intervals)
+ - [x] [](https://leetcode.com/problems/next-permutation)[Next Permutation](https://leetcode.com/problems/next-permutation)
  - [ ] Counting inversion
  - [ ] [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
  - [ ] Given array of size N and number K, find all elements that appear more than N/K times
@@ -48,12 +48,12 @@
  - [x] [](https://leetcode.com/problems/two-sum)[Two Sum](https://leetcode.com/problems/two-sum)
  - [x] [](https://leetcode.com/problems/3sum)[3Sum](https://leetcode.com/problems/3sum)
  - [x] [](https://leetcode.com/problems/search-in-rotated-sorted-array)[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
- - [ ] [](https://leetcode.com/problems/find-median-from-data-stream)[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
+ - [x] [](https://leetcode.com/problems/find-median-from-data-stream)[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
  - [ ] Range sum query
  - [ ] Sort a K-sorted array
  - [ ] Sort an array in wave form
- - [ ] [](https://leetcode.com/problems/4sum)[4Sum](https://leetcode.com/problems/4sum)
- - [ ] [](https://leetcode.com/problems/4sum-ii)[4Sum II](https://leetcode.com/problems/4sum-ii)
+ - [x] [](https://leetcode.com/problems/4sum)[4Sum](https://leetcode.com/problems/4sum)
+ - [x] [](https://leetcode.com/problems/4sum-ii)[4Sum II](https://leetcode.com/problems/4sum-ii)
  - [ ] Closest Subsequence Sum (Leetcode 1755)
  - [ ] [](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)[Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)
 

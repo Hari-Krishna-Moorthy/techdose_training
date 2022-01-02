@@ -1,43 +1,39 @@
 import java.util.Arrays;
+import java.util.List;
+import java.util.LinkedList;
+
 
 class MergeIntervals {
-	static private void swap(int[][] intervals, int i, int j) {
-        int temp = intervals[i][0];
-        intervals[i][0] = intervals[j][0];
-        intervals[j][0] = temp;
-        
-        temp = intervals[i][1];
-        intervals[i][1] = intervals[j][1];
-        intervals[j][1] = temp;
-    }
-    
     static public int[][] merge(int[][] intervals) {
-        int[][] result = new int[intervals.length][2];
+        int start[] = new int[intervals.length];
+        int end[]   = new int[intervals.length];
         
-        for(int i=0;i<intervals.length-1;i++) {
-            for(int j=0;j<intervals.length;j++) {
-                if(intervals[i][0] < intervals[j][0]) {
-                    swap(intervals, i, j);
+        for(int i=0;i<intervals.length;i++) {
+            start[i] = intervals[i][0];
+            end[i]   = intervals[i][1];
+        }
+        
+        Arrays.sort(start);
+        Arrays.sort(end);
+        List<int[]> list = new LinkedList();
+        for(int i = 0 ; i < start.length;) {
+            int _begin = i;
+            int _end   = i;
+            
+            while(i<start.length && start[i]<=end[_end]) {
+                if(end[i]>=end[_end]) {
+                    _end=i;
+                    i++;
+                }else{
+                    break;
                 }
             }
+         int [] select= new int[2];
+            select[0]=start[_begin];
+            select[1]=end[_end];
+            list.add(select);
         }
-        
-        int min = intervals[0][0];
-        int max = intervals[0][1];
-
-        int[][] res = new int[1][2];
-
-        
-
-        for(int i=1;i<intervals.length;i++) {
-
-            if(intervals[i][0] >= min && intervals[i][0] <= max) {
-                max = intervals[i][0];
-            } else {
-                          
-            }
-        }
-        return intervals;
+        return list.toArray(new int[list.size()][2]);
     }
 
     public static void main(String[] args) {
