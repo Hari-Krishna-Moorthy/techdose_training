@@ -28,15 +28,15 @@
  - [x] Insertion Sort
  - [x] Counting Sort
  - [x] Radix sort
-- [ ] [](https://leetcode.com/problems/maximum-gap)[Maximum Gap](https://leetcode.com/problems/maximum-gap)
+- [x] [](https://leetcode.com/problems/maximum-gap)[Maximum Gap](https://leetcode.com/problems/maximum-gap)
  - [x] Bucket Sort
 
 ## 5. Array
 
- - [ ] [](https://leetcode.com/problems/kth-largest-element-in-an-array)[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
- - [ ] [](https://leetcode.com/problems/sort-colors)[Sort Colors](https://leetcode.com/problems/sort-colors)
- - [ ] Largest sum contiguous subarray
- - [ ] Merge 2 sorted arrays without using extra space
+ - [x] [](https://leetcode.com/problems/kth-largest-element-in-an-array)[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+ - [x] [](https://leetcode.com/problems/sort-colors)[Sort Colors](https://leetcode.com/problems/sort-colors)
+ - [x] Largest sum contiguous subarray
+ - [x] Merge 2 sorted arrays without using extra space
  - [ ] [](https://leetcode.com/problems/merge-intervals)[Merge Intervals](https://leetcode.com/problems/merge-intervals)
  - [ ] [](https://leetcode.com/problems/next-permutation)[Next Permutation](https://leetcode.com/problems/next-permutation)
  - [ ] Counting inversion
@@ -44,10 +44,10 @@
  - [ ] Given array of size N and number K, find all elements that appear more than N/K times
  - [ ] [](https://leetcode.com/problems/trapping-rain-water)[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
  - [ ] Chocolate distribution problem
- - [ ] [](https://leetcode.com/problems/median-of-two-sorted-arrays)[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
- - [ ] [](https://leetcode.com/problems/two-sum)[Two Sum](https://leetcode.com/problems/two-sum)
- - [ ] [](https://leetcode.com/problems/3sum)[3Sum](https://leetcode.com/problems/3sum)
- - [ ] [](https://leetcode.com/problems/search-in-rotated-sorted-array)[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
+ - [x] [](https://leetcode.com/problems/median-of-two-sorted-arrays)[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+ - [x] [](https://leetcode.com/problems/two-sum)[Two Sum](https://leetcode.com/problems/two-sum)
+ - [x] [](https://leetcode.com/problems/3sum)[3Sum](https://leetcode.com/problems/3sum)
+ - [x] [](https://leetcode.com/problems/search-in-rotated-sorted-array)[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
  - [ ] [](https://leetcode.com/problems/find-median-from-data-stream)[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
  - [ ] Range sum query
  - [ ] Sort a K-sorted array
@@ -61,8 +61,8 @@
 ## 6. Stack & Queue
     
 
- - [ ]  [](https://leetcode.com/problems/implement-stack-using-queues)[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
- - [ ] [](https://leetcode.com/problems/implement-queue-using-stacks)[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) 
+ - [x]  [](https://leetcode.com/problems/implement-stack-using-queues)[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
+ - [x] [](https://leetcode.com/problems/implement-queue-using-stacks)[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) 
  - [ ] [](https://leetcode.com/problems/valid-parentheses)[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
  - [ ] [](https://leetcode.com/problems/next-greater-element-i)[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) 
  - [ ] Find next smaller element
