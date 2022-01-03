@@ -23,7 +23,7 @@ class MergeSort {
 		merge(arr, low, mid, high);
 	}
 	public static void main(String[] args) {
-		int[] arr = {12, 2, 9, 42};
+		int[] arr = {1, 20, 6, 7, 5, 8, 11, 3};
 		mergeSort(arr, 0, arr.length-1);
 		System.out.println(Arrays.toString(arr));
 	}
