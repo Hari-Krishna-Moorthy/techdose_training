@@ -1,3 +1,4 @@
+
 ## 1. Time complexity analysis
      
  - [x] [link](https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976)
@@ -79,11 +80,11 @@
 
 ## 7. Matrix
 
- - [ ]  [Spiral Traversal/Rotation of matrix](https://leetcode.com/problems/design-hashmap)
- - [ ] [Median in row-wise sorted matrix](https://leetcode.com/problems/4sum)
- - [ ] [Maximum size rectangle (Discussed in hashmap)](https://leetcode.com/problems/valid-sudoku)
- - [ ] [Rotate matrix by 90 degrees](https://leetcode.com/problems/sudoku-solver)
- - [ ] [Kth smallest element in a row-wise column-wise sorted matrix](https://leetcode.com/problems/group-anagrams)
+ - [x]  [Spiral Traversal/Rotation of matrix](https://leetcode.com/problems/spiral-matrix/)
+ - [x] [Median in row-wise sorted matrix](https://leetcode.com/problems/search-a-2d-matrix-ii)
+ - [x] [Maximum size rectangle (Discussed in hashmap)](https://leetcode.com/problems/maximal-rectangle/)
+ - [x] [Rotate matrix by 90 degrees](https://leetcode.com/problems/rotate-image/)
+ - [x] [Kth smallest element in a row-wise column-wise sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 
 ## 8. HashMap
