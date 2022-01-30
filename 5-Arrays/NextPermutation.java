@@ -1,3 +1,4 @@
+import java.util.Scanner;
 import java.util.Arrays;
 
 class NextPermutation {
@@ -21,6 +22,21 @@ class NextPermutation {
         reverse(nums, i+1, nums.length-1);
     }
     public static void main(String[] args) {
-    	System.out.println(Arrays.toString(new int[] {1, 2, 3}));
+        Scanner scanner = new Scanner(System.in);
+        int n = scanner.nextInt();
+        int[] arr = new int[n];
+
+        for(int i=0;i<n;i++) {
+            arr[i] = scanner.nextInt();
+        }
+
+        nextPermutation(arr);
+
+        for(int i=0;i<n;i++) {
+            System.out.print(arr[i] + " ");
+        }        
+
     }
+
+
 }
