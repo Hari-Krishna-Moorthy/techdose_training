@@ -64,16 +64,16 @@
 
  - [x]  [](https://leetcode.com/problems/implement-stack-using-queues)[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
  - [x] [](https://leetcode.com/problems/implement-queue-using-stacks)[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) 
- - [ ] [](https://leetcode.com/problems/valid-parentheses)[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
- - [ ] [](https://leetcode.com/problems/next-greater-element-i)[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) 
- - [ ] Find next smaller element
- - [ ] Find previous greater element
- - [ ] Find previous smaller element
- - [ ] Design stack which supports getmin in O(1) time and space (Read editorial)
- - [ ] [](https://leetcode.com/problems/largest-rectangle-in-histogram)[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
- - [ ] [](https://leetcode.com/problems/lru-cache)[LRU Cache](https://leetcode.com/problems/lru-cache)
+ - [x] [](https://leetcode.com/problems/valid-parentheses)[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
+ - [x] [](https://leetcode.com/problems/next-greater-element-i)[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) 
+ - [x] Find next smaller element
+ - [x] Find previous greater element
+ - [x] Find previous smaller element
+ - [x] [Design stack which supports getmin in O(1) time and space (Read editorial)](https://leetcode.com/problems/min-stack/)
+ - [x] [](https://leetcode.com/problems/largest-rectangle-in-histogram)[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
+ - [x] [](https://leetcode.com/problems/lru-cache)[LRU Cache](https://leetcode.com/problems/lru-cache)
  - [ ] [](https://leetcode.com/problems/rotting-oranges)[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
- - [ ] Reverse a stack without using extra space
+ - [x] Reverse a stack without using extra space
  - [ ] Basic calculator(224)
  - [ ] Basic calculator 2 (227)
  - [ ] car fleet 1
@@ -119,11 +119,11 @@
 
 ## 10. Linked List
 
- - [ ] Reverse a linkedList (Iterative and recursive)
+ - [x] Reverse a linkedList (Iterative and recursive)
  - [ ] Reverse LinkedList in blocks of size K
- - [ ] Loop detection in LinkedList
+ - [x] Loop detection in LinkedList
  - [ ] Find intersection node or starting node of a loop in linkedList
- - [ ] Remove Duplicates in LinkedList
+ - [x] Remove Duplicates in LinkedList
  - [ ] Add 2 linkedLists represented as numbers
  - [ ] Sort a LinkedList (merge sort)
  - [ ] Check if a LinkedList is palindrome
