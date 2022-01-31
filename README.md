@@ -72,7 +72,7 @@
  - [x] [Design stack which supports getmin in O(1) time and space (Read editorial)](https://leetcode.com/problems/min-stack/)
  - [x] [](https://leetcode.com/problems/largest-rectangle-in-histogram)[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
  - [x] [](https://leetcode.com/problems/lru-cache)[LRU Cache](https://leetcode.com/problems/lru-cache)
- - [ ] [](https://leetcode.com/problems/rotting-oranges)[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
+ - [x] [](https://leetcode.com/problems/rotting-oranges)[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
  - [x] Reverse a stack without using extra space
  - [ ] Basic calculator(224)
  - [ ] Basic calculator 2 (227)
