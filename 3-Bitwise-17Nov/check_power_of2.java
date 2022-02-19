@@ -26,10 +26,10 @@ class check_power_of2 {
 	}
 
 	public static int getPowerOfTwo(int num) {
-		int power = 0, n = 1;
+		int power = 0;
 
-		while(num != n) {
-			n = n << 1;
+		while(num != 1) {
+			num>>=1;
 			power++;
 		}
 		return power;
@@ -37,7 +37,7 @@ class check_power_of2 {
 
 
 	public static void main(String[] args) {
-		int n = 16;
+		int n = 8;
 		if(isPowerOfTwo(n)) {
 			System.out.println("Power of 2");
 			System.out.println(getPowerOfTwo(n));

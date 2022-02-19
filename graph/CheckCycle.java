@@ -4,14 +4,14 @@ class CheckCycle {
 	public static boolean isCycle(Vector<Vector<Integer>> adj, Vector<Integer> visited, int curr) {
 		if(visited.get(curr) == 2) return true;
 
-		visited.add(curr,2);
+		visited.set(curr,2);
 
 		for(Integer node : adj.get(curr)) {
 			if(visited.get(node) != 1) {
 				if(isCycle(adj, visited, node)) return true;
 			}
 		}
-		visited.add(curr, 1);
+		visited.set(curr, 1);
 		return false;
 	}
 
