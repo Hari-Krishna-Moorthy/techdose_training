@@ -1,4 +1,5 @@
 
+
 ## 1. Time complexity analysis
      
  - [x] [link](https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976)
@@ -41,7 +42,7 @@
  - [x] [](https://leetcode.com/problems/merge-intervals)[Merge Intervals](https://leetcode.com/problems/merge-intervals)
  - [x] [](https://leetcode.com/problems/next-permutation)[Next Permutation](https://leetcode.com/problems/next-permutation)
  - [ ] Counting inversion
- - [ ] [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+ - [x] [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
  - [ ] Given array of size N and number K, find all elements that appear more than N/K times
  - [ ] [](https://leetcode.com/problems/trapping-rain-water)[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
  - [ ] Chocolate distribution problem
@@ -216,8 +217,8 @@
  - [ ] [](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) (DSUF / DFS) 
  - [ ] [](https://leetcode.com/problems/evaluate-division)[Evaluate Division](https://leetcode.com/problems/evaluate-division) (DSUF) 
  - [x] [](https://leetcode.com/problems/clone-graph)[Clone Graph](https://leetcode.com/problems/clone-graph) (DFS) 
- - [ ] [](https://leetcode.com/problems/is-graph-bipartite)[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) (Bipartite graph)
- - [ ] [](https://leetcode.com/problems/possible-bipartition)[Possible Bipartition](https://leetcode.com/problems/possible-bipartition) (Bipartite Graph)
+ - [x] [](https://leetcode.com/problems/is-graph-bipartite)[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) (Bipartite graph)
+ - [x] [](https://leetcode.com/problems/possible-bipartition)[Possible Bipartition](https://leetcode.com/problems/possible-bipartition) (Bipartite Graph)
  - [ ] [](https://leetcode.com/problems/all-paths-from-source-to-target)[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) (DFS)
  - [ ]  [](https://leetcode.com/problems/path-with-minimum-effort)[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) (DFS + Binary Search / Dijkstra)
  - [ ] [](https://leetcode.com/problems/graph-valid-tree)[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) (Check if Graph is a TREE)
@@ -257,7 +258,7 @@
  - [ ] [](https://leetcode.com/problems/partition-equal-subset-sum)[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) (KP (Knapsack) )
  - [ ] [](https://leetcode.com/problems/ones-and-zeroes)[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) (KP (Knapsack))
  - [ ] [](https://leetcode.com/problems/target-sum)[Target Sum](https://leetcode.com/problems/target-sum) (KP (Knapsack)
- - [ ] [](https://leetcode.com/problems/coin-change)[Coin Change](https://leetcode.com/problems/coin-change) KP (Knapsack)
+ - [x] [](https://leetcode.com/problems/coin-change)[Coin Change](https://leetcode.com/problems/coin-change) KP (Knapsack)
  - [ ] [](https://leetcode.com/problems/coin-change-2)[Coin Change 2](https://leetcode.com/problems/coin-change-2) KP (Knapsack)
  - [ ] [](https://leetcode.com/problems/longest-palindromic-substring)[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)LPS
  - [ ] [](https://leetcode.com/problems/palindromic-substrings)[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) LPS 

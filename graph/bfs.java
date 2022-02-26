@@ -7,8 +7,6 @@ import java.util.PriorityQueue;
 
 
 class bfs {
-	
-
 	public static void bfs_fun(int s, List<LinkedList<Integer>> g, boolean[] vis) {
 		Queue<Integer> q = new PriorityQueue<Integer>();
 
