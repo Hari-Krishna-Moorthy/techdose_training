@@ -6,8 +6,6 @@ class LeftView {
 	public static void leftView(TreeNode root) {
 		Queue<TreeNode> queue = new LinkedList<TreeNode>();
 		queue.add(root);
-
-		int len = 0;
 		while(!queue.isEmpty()) {
 			int currLen = queue.size();
 			System.out.print(queue.peek() + " ");
