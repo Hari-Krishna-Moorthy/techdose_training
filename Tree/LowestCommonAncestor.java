@@ -7,7 +7,6 @@ public class LowestCommonAncestor {
 
         if (l != null && r != null)
             return root;
-
         if (l != null)
             return l;
         if (r != null)
