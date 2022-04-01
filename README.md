@@ -1,3 +1,5 @@
+
+
 ## 1. Time complexity analysis
      
  - [x] [link](https://discuss.codechef.com/t/multiple-choice-questions-related-to-testing-knowledge-about-time-and-space-complexity-of-a-program/17976)
@@ -40,7 +42,7 @@
  - [x] [](https://leetcode.com/problems/merge-intervals)[Merge Intervals](https://leetcode.com/problems/merge-intervals)
  - [x] [](https://leetcode.com/problems/next-permutation)[Next Permutation](https://leetcode.com/problems/next-permutation)
  - [ ] Counting inversion
- - [ ] [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+ - [x] [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
  - [ ] Given array of size N and number K, find all elements that appear more than N/K times
  - [ ] [](https://leetcode.com/problems/trapping-rain-water)[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
  - [ ] Chocolate distribution problem
@@ -63,27 +65,27 @@
 
  - [x]  [](https://leetcode.com/problems/implement-stack-using-queues)[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
  - [x] [](https://leetcode.com/problems/implement-queue-using-stacks)[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) 
- - [ ] [](https://leetcode.com/problems/valid-parentheses)[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
- - [ ] [](https://leetcode.com/problems/next-greater-element-i)[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) 
- - [ ] Find next smaller element
- - [ ] Find previous greater element
- - [ ] Find previous smaller element
- - [ ] Design stack which supports getmin in O(1) time and space (Read editorial)
- - [ ] [](https://leetcode.com/problems/largest-rectangle-in-histogram)[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
- - [ ] [](https://leetcode.com/problems/lru-cache)[LRU Cache](https://leetcode.com/problems/lru-cache)
- - [ ] [](https://leetcode.com/problems/rotting-oranges)[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
- - [ ] Reverse a stack without using extra space
+ - [x] [](https://leetcode.com/problems/valid-parentheses)[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
+ - [x] [](https://leetcode.com/problems/next-greater-element-i)[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) 
+ - [x] Find next smaller element
+ - [x] Find previous greater element
+ - [x] Find previous smaller element
+ - [x] [Design stack which supports getmin in O(1) time and space (Read editorial)](https://leetcode.com/problems/min-stack/)
+ - [x] [](https://leetcode.com/problems/largest-rectangle-in-histogram)[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
+ - [x] [](https://leetcode.com/problems/lru-cache)[LRU Cache](https://leetcode.com/problems/lru-cache)
+ - [x] [](https://leetcode.com/problems/rotting-oranges)[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
+ - [x] Reverse a stack without using extra space
  - [ ] Basic calculator(224)
  - [ ] Basic calculator 2 (227)
  - [ ] car fleet 1
 
 ## 7. Matrix
 
- - [ ]  [Spiral Traversal/Rotation of matrix](https://leetcode.com/problems/design-hashmap)
- - [ ] [Median in row-wise sorted matrix](https://leetcode.com/problems/4sum)
- - [ ] [Maximum size rectangle (Discussed in hashmap)](https://leetcode.com/problems/valid-sudoku)
- - [ ] [Rotate matrix by 90 degrees](https://leetcode.com/problems/sudoku-solver)
- - [ ] [Kth smallest element in a row-wise column-wise sorted matrix](https://leetcode.com/problems/group-anagrams)
+ - [x]  [Spiral Traversal/Rotation of matrix](https://leetcode.com/problems/spiral-matrix/)
+ - [x] [Median in row-wise sorted matrix](https://leetcode.com/problems/search-a-2d-matrix-ii)
+ - [x] [Maximum size rectangle (Discussed in hashmap)](https://leetcode.com/problems/maximal-rectangle/)
+ - [x] [Rotate matrix by 90 degrees](https://leetcode.com/problems/rotate-image/)
+ - [x] [Kth smallest element in a row-wise column-wise sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 
 ## 8. HashMap
@@ -118,14 +120,182 @@
 
 ## 10. Linked List
 
- - [ ] Reverse a linkedList (Iterative and recursive)
+ - [x] Reverse a linkedList (Iterative and recursive)
  - [ ] Reverse LinkedList in blocks of size K
- - [ ] Loop detection in LinkedList
+ - [x] Loop detection in LinkedList
  - [ ] Find intersection node or starting node of a loop in linkedList
- - [ ] Remove Duplicates in LinkedList
+ - [x] Remove Duplicates in LinkedList
  - [ ] Add 2 linkedLists represented as numbers
  - [ ] Sort a LinkedList (merge sort)
  - [ ] Check if a LinkedList is palindrome
  - [ ] Flatten a linkedList
  - [ ] Multiply 2 nos represented as LinkedList
  - [ ] Josephus circle using circular linkedList
+
+## 11. BackTracking
+
+ - [ ] [](https://leetcode.com/problems/n-queens)[N-Queens](https://leetcode.com/problems/n-queens)
+ - [ ] [](https://leetcode.com/problems/n-queens-ii)[N-Queens II](https://leetcode.com/problems/n-queens-ii)
+ - [ ] [](https://leetcode.com/problems/generate-parentheses)[Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
+ - [ ] [](https://leetcode.com/problems/letter-combinations-of-a-phone-number)[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+ - [ ] [](https://leetcode.com/problems/word-search)[Word Search](https://leetcode.com/problems/word-search)
+ - [ ] [](https://leetcode.com/problems/word-search-ii)[Word Search II](https://leetcode.com/problems/word-search-ii)
+ - [ ] [](https://leetcode.com/problems/word-break-ii)[Word Break II](https://leetcode.com/problems/word-break-ii)
+ - [ ] [](https://leetcode.com/problems/regular-expression-matching)[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
+ - [ ] [](https://leetcode.com/problems/sudoku-solver)[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)
+ - [ ] [](https://leetcode.com/problems/permutations)[Permutations](https://leetcode.com/problems/permutations)
+ - [ ] [](https://leetcode.com/problems/combination-sum)[Combination Sum](https://leetcode.com/problems/combination-sum)
+ - [ ] [](https://leetcode.com/problems/the-maze)[The Maze](https://leetcode.com/problems/the-maze)
+ - [ ] [](https://leetcode.com/problems/remove-invalid-parentheses)[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)
+
+## 12. Greedy
+
+ - [ ] Implement Huffman algo (Use Editorial and our class lecture)
+ - [ ] [](https://leetcode.com/problems/meeting-rooms-ii)[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)
+ - [ ] [](https://leetcode.com/problems/employee-free-time)[Employee Free Time](https://leetcode.com/problems/employee-free-time)
+ - [ ] [](https://leetcode.com/problems/task-scheduler)[Task Scheduler](https://leetcode.com/problems/task-scheduler)
+ - [ ] [](https://leetcode.com/problems/reorganize-string)[Reorganize String](https://leetcode.com/problems/reorganize-string)
+ - [ ] [](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)
+ - [ ] [](https://leetcode.com/problems/gas-station)[Gas Station](https://leetcode.com/problems/gas-station)
+ - [ ] [](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)[Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)
+ - [ ] [](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)
+ - [ ] [](https://leetcode.com/problems/jump-game-ii)[Jump Game II](https://leetcode.com/problems/jump-game-ii)
+ - [ ] [](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended)
+ - [ ] [](https://leetcode.com/problems/partition-labels)[Partition Labels](https://leetcode.com/problems/partition-labels)
+ - [ ] [](https://leetcode.com/problems/two-city-scheduling)[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling)
+ - [ ] [](https://leetcode.com/problems/jump-game)[Jump Game](https://leetcode.com/problems/jump-game)
+
+## 13. Tree
+
+ - [X] [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+ - [X] [](https://leetcode.com/problems/binary-tree-maximum-path-sum)[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
+ - [X] [](https://leetcode.com/problems/binary-tree-right-side-view)[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
+ - [ ] [](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+ - [ ] [](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)
+ - [ ] [](https://leetcode.com/problems/count-good-nodes-in-binary-tree)[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)
+ - [ ] [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)[Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii)
+ - [ ] [](https://leetcode.com/problems/validate-binary-search-tree)[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+ - [ ] [](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
+ - [ ] [](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
+ - [ ] [](https://leetcode.com/problems/diameter-of-binary-tree)[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)
+ - [ ] [](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)
+ - [ ] [](https://leetcode.com/problems/invert-binary-tree)[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+ - [ ] [](https://leetcode.com/problems/balance-a-binary-search-tree)[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)
+ - [ ] [](https://leetcode.com/problems/binary-tree-level-order-traversal)[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
+ - [ ] [](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)
+ - [ ] [](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+ - [ ] [](https://leetcode.com/problems/symmetric-tree)[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+ - [ ] [](https://leetcode.com/problems/unique-binary-search-trees)[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)
+ - [ ] [](https://leetcode.com/problems/cousins-in-binary-tree)[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)
+ - [ ] [](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)
+ - [ ] [](https://leetcode.com/problems/inorder-successor-in-bst)[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst)
+
+## 14. TRIE
+
+ - [ ] [](https://leetcode.com/problems/implement-trie-prefix-tree)[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)
+ - [ ] [](https://leetcode.com/problems/implement-trie-ii-prefix-tree)[Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree)
+ - [ ] [](https://leetcode.com/problems/design-add-and-search-words-data-structure)[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
+ - [ ] Count number of strings with given prefix
+ - [ ] [](https://leetcode.com/problems/word-break)[Maximum XOR of 2 numbers in an array](https://leetcode.com/problems/word-break)
+ - [ ] [](https://leetcode.com/problems/word-break)[Word Break](https://leetcode.com/problems/word-break)
+ - [ ] [](https://leetcode.com/problems/word-break-ii)[Word Break II](https://leetcode.com/problems/word-break-ii)
+
+## 15. Segment Tree
+
+ - [ ] Range sum query
+ - [ ] Range max/min query
+ - [ ] Range XOR query
+ - [ ] Range GCD query
+ - [ ] Range LCM query
+ - [ ] Count of number of Zeroes in a given range
+ - [ ] Find Kth zero in array (segment tree)
+
+## 16. GRAPH
+
+ - [x] [](https://leetcode.com/problems/course-schedule-ii)[Course Schedule II](https://leetcode.com/problems/course-schedule-ii) (Topological Sort) 
+ - [x] [](https://leetcode.com/problems/course-schedule)[Course Schedule](https://leetcode.com/problems/course-schedule) (Cycle Detection) 
+ - [ ] [](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) (DSUF / DFS) 
+ - [ ] [](https://leetcode.com/problems/evaluate-division)[Evaluate Division](https://leetcode.com/problems/evaluate-division) (DSUF) 
+ - [x] [](https://leetcode.com/problems/clone-graph)[Clone Graph](https://leetcode.com/problems/clone-graph) (DFS) 
+ - [x] [](https://leetcode.com/problems/is-graph-bipartite)[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) (Bipartite graph)
+ - [x] [](https://leetcode.com/problems/possible-bipartition)[Possible Bipartition](https://leetcode.com/problems/possible-bipartition) (Bipartite Graph)
+ - [ ] [](https://leetcode.com/problems/all-paths-from-source-to-target)[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) (DFS)
+ - [ ]  [](https://leetcode.com/problems/path-with-minimum-effort)[Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) (DFS + Binary Search / Dijkstra)
+ - [ ] [](https://leetcode.com/problems/graph-valid-tree)[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) (Check if Graph is a TREE)
+ - [ ]  [](https://leetcode.com/problems/connecting-cities-with-minimum-cost)[Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost) (MST (Kruskal's/Prims))
+ - [ ] [](https://leetcode.com/problems/regions-cut-by-slashes)[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes) (Counting islands / DSUF)
+ - [ ]  [](https://leetcode.com/problems/network-delay-time)[Network Delay Time](https://leetcode.com/problems/network-delay-time) (Dijkstra/Bellman-Ford)
+ - [ ] [](https://leetcode.com/problems/shortest-path-to-get-food)[Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food) (BFS)
+ - [ ] [](https://leetcode.com/problems/path-with-maximum-minimum-value)[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value) (Dijkstra)
+ - [ ] [](https://leetcode.com/problems/shortest-path-in-a-hidden-grid)[Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid) (Dijkstra)
+ - [ ] [](https://leetcode.com/problems/couples-holding-hands)[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) (DSUF)
+ - [ ] [](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid)[Minimum Path Cost in a Hidden Grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid) (Dijkstra)
+ - [ ] [](https://leetcode.com/problems/path-with-maximum-probability)[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability) (Dijkstra)
+ - [ ] [](https://leetcode.com/problems/parallel-courses)[Parallel Courses](https://leetcode.com/problems/parallel-courses) (Topological Sort)
+ - [ ] [](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)[Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) (Floyd Warshall)
+ - [ ] [](https://leetcode.com/problems/course-schedule-iv)[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv) (Floyd Warshall)
+ - [ ] [](https://leetcode.com/problems/cheapest-flights-within-k-stops)[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) (Dijkstra/Bellman-Ford)
+ - [ ]  [](https://leetcode.com/problems/min-cost-to-connect-all-points)[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) (Prims/Kruskals MST)
+ - [ ] [](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)[Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) (Prims/Kruskals MST / DSUF)
+ - [ ] [](https://leetcode.com/problems/critical-connections-in-a-network)[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network) (Tarjan's Algo)
+ - [ ] [](https://leetcode.com/problems/number-of-provinces)[Number of Provinces](https://leetcode.com/problems/number-of-provinces) (DSUF)
+ - [ ] [](https://leetcode.com/problems/maximum-number-of-accepted-invitations)[Maximum Number of Accepted Invitations](https://leetcode.com/problems/maximum-number-of-accepted-invitations) (Ford-Fulkerson / Hungarian algo)
+ - [ ] [](https://leetcode.com/problems/alien-dictionary)[Alien Dictionary](https://leetcode.com/problems/alien-dictionary) (Topological Sort)
+ - [ ] [](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph)[Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph) (Bruteforce (Adjacency Matrix))
+ - [ ] [](https://leetcode.com/problems/detonate-the-maximum-bombs)[Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) (BFS)
+
+## 17. DP 
+
+ - [ ] [](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors)[Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) (MCM)
+ - [ ] [](https://leetcode.com/problems/super-egg-drop)[Super Egg Drop](https://leetcode.com/problems/super-egg-drop) (MCM)
+ - [ ] [](https://leetcode.com/problems/burst-balloons)[Burst Balloons](https://leetcode.com/problems/burst-balloons) (MCM)
+ - [ ] [](https://leetcode.com/problems/minimum-score-triangulation-of-polygon)[Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon) (MCM)
+ - [ ] [](https://leetcode.com/problems/longest-common-subsequence)[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) (LCS)
+ - [ ] [](https://leetcode.com/problems/shortest-common-supersequence)[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence) (LCS)
+ - [ ] [](https://leetcode.com/problems/longest-palindromic-subsequence)[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) (LCS)
+ - [ ] [](https://leetcode.com/problems/maximum-length-of-repeated-subarray)[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) (LCS)
+ - [ ] [](https://leetcode.com/problems/delete-operation-for-two-strings)[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) (LCS)
+ - [ ] [](https://leetcode.com/problems/partition-equal-subset-sum)[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum) (KP (Knapsack) )
+ - [ ] [](https://leetcode.com/problems/ones-and-zeroes)[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes) (KP (Knapsack))
+ - [ ] [](https://leetcode.com/problems/target-sum)[Target Sum](https://leetcode.com/problems/target-sum) (KP (Knapsack)
+ - [x] [](https://leetcode.com/problems/coin-change)[Coin Change](https://leetcode.com/problems/coin-change) KP (Knapsack)
+ - [ ] [](https://leetcode.com/problems/coin-change-2)[Coin Change 2](https://leetcode.com/problems/coin-change-2) KP (Knapsack)
+ - [ ] [](https://leetcode.com/problems/longest-palindromic-substring)[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)LPS
+ - [ ] [](https://leetcode.com/problems/palindromic-substrings)[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) LPS 
+ - [ ] [](https://leetcode.com/problems/longest-increasing-subsequence)[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) LIS 
+ - [ ] [](https://leetcode.com/problems/number-of-longest-increasing-subsequence)[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) LIS
+ - [ ] [](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing)[Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing) 
+ - [ ] LIS (NlogN)
+ - [ ] [](https://leetcode.com/problems/edit-distance)[Edit Distance](https://leetcode.com/problems/edit-distance) MED (Min Edit Dist)
+ - [ ] [](https://leetcode.com/problems/one-edit-distance)[One Edit Distance](https://leetcode.com/problems/one-edit-distance) MED (Min Edit Dist)
+ - [ ] [](https://leetcode.com/problems/minimum-path-sum)[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) DP on Grid
+ - [ ] [](https://leetcode.com/problems/unique-paths)[Unique Paths](https://leetcode.com/problems/unique-paths) DP on Grid
+ - [ ] [](https://leetcode.com/problems/unique-paths-ii)[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) DP on Grid
+ - [ ] [](https://leetcode.com/problems/largest-rectangle-in-histogram)[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) DP on Grid
+ - [ ] [](https://leetcode.com/problems/maximal-square)[Maximal Square](https://leetcode.com/problems/maximal-square) DP on Grid
+ - [ ] [](https://leetcode.com/problems/maximal-rectangle)[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) DP on Grid 
+ - [ ] [](https://leetcode.com/problems/dungeon-game)[Dungeon Game](https://leetcode.com/problems/dungeon-game) DP on Grid 
+ - [ ] [](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) DP BitMasking
+ - [ ] [](https://leetcode.com/problems/matchsticks-to-square)[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) DP BitMasking 
+ - [ ] [](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other) DP BitMasking
+
+## 18. Strings
+
+ - [ ] Given string and pattern, match string with pattern (Implement KMP algo)
+ - [ ] Given string and pattern, match string with pattern (Implement Rabin Karp algo) 
+ - [ ] Group anagrams
+ - [ ] Longest Palindromic substring
+ - [ ] Longest recurring subsequence
+ - [ ] String permutation algorithm (YouTube)
+ - [ ] Word wrap problem
+ - [ ] Minimum edit distance
+ - [ ] Word break problem
+ - [ ] Balanced parenthesis
+ - [ ] Longest common prefix
+ - [ ] Longest common subsequence
+ - [ ] Wildcard string matching
+ - [ ] Longest Common anagram subseuqnce
+ - [ ] Lexicographically smallest non-palindromic substring
+ - [ ] Given 2 strings, both representing integers (multiply them)
+ - [ ] Count all distinct substrings
+ - [ ] Difference of 2 large numbers represented as string

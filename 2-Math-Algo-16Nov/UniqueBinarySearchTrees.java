@@ -1,5 +1,5 @@
 // URL : https://leetcode.com/problems/unique-binary-search-trees/
-
+import java.util.Arrays;
 class UniqueBinarySearchTrees {
 
 	static public int numTrees(int n) {
@@ -13,6 +13,7 @@ class UniqueBinarySearchTrees {
 				catalan[x] += catalan[y] * catalan[x - y - 1];
 			}
 		}
+		System.out.println("Arrays : " + Arrays.toString(catalan));
 		return catalan[n];
 
     }
@@ -20,5 +21,6 @@ class UniqueBinarySearchTrees {
 	public static void main(String[] args) {
 		System.out.println(numTrees(1));
 		System.out.println(numTrees(3));
+		System.out.println(numTrees(10));
 	}
 }
